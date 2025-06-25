@@ -100,11 +100,11 @@ Password hash cracking
 
 This Penetration Testing Toolkit serves as an introductory but functional toolset for exploring offensive cybersecurity techniques in a controlled and legal environment. While simple compared to professional tools like Nmap, Hydra, or Burp Suite, building this from scratch provides a solid understanding of the underlying mechanisms that power real-world cybersecurity tools. It’s a valuable step for anyone aspiring to become a penetration tester, ethical hacker, or security analyst.
 
-# OUTPUT
+## OUTPUT
 
 so out of the 2 
 
-## 1) we'll see the prot scanner.
+### 1) we'll see the prot scanner.
 
 - before we see that we need to put a port online so, we use one terminal to put a server online and create a port which i choose a 8080 port. :-
  
@@ -116,7 +116,7 @@ now we run the main program to check if its working:-
 
 yes therefore it works.
 
-## 2) Now we will se about bruteforce.
+### 2) Now we will se about bruteforce.
 
 to run bruteforce we need a server that we need to use the attack on soo we created a server running.
 
